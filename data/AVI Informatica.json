@@ -1,0 +1,324 @@
+[
+    {
+        "facultad": "Educación y Ciencias Humanas",
+        "programa": "Licenciatura en Informática",
+        "nombre": "AVI: Ambientes Virtuales Interactivos",
+        "grupoInvestigacion": "EduTLan: Education, Technology and Language",
+        "tematicas": [
+            "Ambientes Virtuales de Aprendizaje",
+            "eLearning",
+            "Transmedia Educativa",
+            "Software Educativo",
+            "Inteligencia Artificial en Educación",
+            "Tecnologías de la Información y Comunicación, Educación",
+            "Diseño de propuestas y modelos para la incorporación e integración de la informática al currículo"
+        ],
+        "mision": "Formar líderes altamente comprometidos con la investigación, el trabajo en equipo, la adquisición constante de conocimiento y el aprendizaje autónomo que estén diseñando, produciendo y compartiendo nuevos desarrollos y conocimientos en el campo de la innovación educativa con Tecnologías de Información y Comunicación (TIC) e Inteligencia Artificial (IA) para contribuir al desarrollo de recursos educativos digitales interactivos, abiertos, transmedia e hipermedia, alineados con la cuarta revolución industrial y la sustentabilidad global.",
+        "vision": "Ser un semillero que se destaque y llegar a ser reconocido a nivel nacional e internacional en la formación de investigadores en la producción de software y Material Audiovisual.",
+        "objetivoGeneral": "Cultivar competencias científicas que permitan la publicación de nuevo conocimiento y el desarrollo de productos dentro de las líneas de investigación del semillero.",
+        "objetivosEspecificos": [
+        "Desarrollar proyectos de investigación enfocados en áreas de interés del semillero.",
+        "Realizar la escritura y publicación de artículos científicos relacionados con la investigación.",
+        "Participar en el desarrollo de ponencias en eventos académicos.",
+        "Crear y producir software y ambientes virtuales interactivos.",
+        "Diseñar guías metodológicas que fusionen educación y tecnología.",
+        "Compilar y publicar un libro que presente los productos y logros del semillero."
+    ],
+    "estrategias_trabajo": "El semillero se basa en el desarrollo de productividad académica y tecnológica a través de la investigación formativa derivada de proyectos de investigación. Además, se promueve la interacción con la comunidad científica mediante la asistencia a eventos locales, nacionales e internacionales. Los resultados de la investigación son divulgados a través de la revista de la Licenciatura en Informática (Acta Científica) y en eventos académicos nacionales e internacionales.",
+    "actividades_cronograma": {
+        "2024": {
+        "semestre_1": [
+            "Sesión de planificación estratégica para definir enfoques y prioridades.",
+            "Selección de líderes de proyecto y asignación de miembros a líneas de investigación.",
+            "Investigación y revisión bibliográfica sobre temáticas clave.",
+            "Identificación de colaboradores y expertos en áreas de interés.",
+            "Inicio de proyectos de investigación y desarrollo de recursos educativos.",
+            "Organización de reuniones generales para informar y discutir progresos."
+        ],
+        "semestre_2": [
+            "Continuación del desarrollo de proyectos y recursos educativos.",
+            "Creación de guías metodológicas y propuestas para recursos digitales.",
+            "Participación en eventos académicos y conferencias.",
+            "Presentación de ponencias y publicación de artículos científicos.",
+            "Diseño de un libro que compile logros y resultados.",
+            "Evaluación y reflexión del ciclo, planificación para el próximo año.",
+            "Reuniones generales regulares para mantener al equipo informado y cohesionado."
+        ]
+    }
+    },
+    "asesor": {
+        "nombre": "Juan Carlos Giraldo",
+        "identificacion": "18498047",
+        "nivel de formacion": "Magister y Candidato a Doctor",
+        "telefono": "3145748936",
+        "correo electrónico": "jgiraldo@correo.unicordoba.edu.co"
+    },
+    "coordinador": {
+        "nombre": "Daniel Jose Toledo Castilla",
+        "identificacion": "1062425030",
+        "semestre": "Sexto Semestre",
+        "telefono": "3004512697",
+        "correo electrónico": "dtoledocastilla@correo.unicordoba.edu.co",
+        "fecha de vinculación": "05 de Octubre del 2023"
+    },
+    "integrantes": {
+        "docentes":[
+        {
+            "nombre": "Isabel Cristina Muñoz Vargas",
+            "identificacion": "41928124",
+            "semestre": "Magister",
+            "telefono": "3114271791",
+            "correo electrónico": "icristina@correo.unicordoba.edu.co",
+            "fecha de vinculación": "-"
+        },
+        {
+            "nombre": "Linda Luz Lee",
+            "identificacion": "50940153",
+            "semestre": "Magister",
+            "telefono": "3002762130",
+            "correo electrónico": "llee@correo.unicordoba.edu.co",
+            "fecha de vinculación": "-"
+        }
+        ],
+        "estudiantes":[
+        {
+            "nombre": "José Luis Mercado",
+            "identificación": "1068416427",
+            "semestre": "Octavo semestre",
+            "teléfono": "3132206478",
+            "correo electrónico": "jmercadoibarra@correo.unicordoba.edu.co",
+            "fecha de vinculación": "24 de Octubre del 2023"
+        },
+        {
+            "nombre": "Yoimer Yamith Ayazo Torres",
+            "identificación": "1003394690",
+            "semestre": "Séptimo semestre",
+            "teléfono": "3043912740",
+            "correo electrónico": "yayazotorres90@correo.unicordoba.edu.co",
+            "fecha de vinculación": "02 de Abril del 2024"
+        },
+        {
+            "nombre": "María Juliana Martínez Herazo",
+            "identificación": "1003503725",
+            "semestre": "Séptimo semestre",
+            "teléfono": "3122250756",
+            "correo electrónico": "mmartinezherazo25@correo.unicordoba.edu.co",
+            "fecha de vinculación": "13 de Julio de 2023"
+        },
+        {
+            "nombre": "Camila Andrea Rivera Torres",
+            "identificación": "1069464988",
+            "semestre": "Séptimo semestre",
+            "teléfono": "3004190700",
+            "correo electrónico": "criveratorres88@correo.unicordoba.edu.co",
+            "fecha de vinculación": "13 de Julio de 2023"
+        },
+        {
+            "nombre": "Roberto Carlos Roqueme Fajardo",
+            "identificación": "1003000617",
+            "semestre": "Octavo semestre",
+            "teléfono": "3226332728",
+            "correo electrónico": "rroquemefajardo17@correo.unicordoba.edu.co",
+            "fecha de vinculación": "24 de octubre de 2023"
+        },
+        {
+            "nombre": "David José Mendez Florez",
+            "identificación": "1002998253",
+            "semestre": "Séptimo semestre",
+            "teléfono": "3160530726",
+            "correo electrónico": "Dmendezflorez53@correo.unicordoba.edu.co",
+            "fecha de vinculación": "02 de Abril del 2024"
+        },
+        {
+            "nombre": "Carlos Julián Ramos González",
+            "identificación": "1003395823",
+            "semestre": "Onceavo semestre",
+            "teléfono": "3146491024",
+            "correo electrónico": "cramosgonzales@correo.unicordoba.edu.co",
+            "fecha de vinculación": "Abril del 2022"
+        },
+        {
+            "nombre": "Viveth Sofia Segovia Argumedo",
+            "identificación": "1062970206",
+            "semestre": "Séptimo semestre",
+            "teléfono": "3117127716",
+            "correo electrónico": "Vsegoviaargumedo@correo.unicordoba.edu.co",
+            "fecha de vinculación": "13 de Julio de 2023"
+        },
+        {
+            "nombre": "Kátherin Tobio Doria",
+            "identificación": "1003717633",
+            "semestre": "Séptimo semestre",
+            "teléfono": "3113464682",
+            "correo electrónico": "Ktobiodoria33@correo.unicordoba.edu.co",
+            "fecha de vinculación": "13 de Julio de 2023"
+        },
+        {
+            "nombre": "Jhonnys Javier Padilla Pitalua",
+            "identificación": "1007629710",
+            "semestre": "Décimo semestre",
+            "teléfono": "3102923346",
+            "correo electrónico": "jjpadillapitalua@correo.unicordoba.edu.co",
+            "fecha de vinculación": "04 de Octubre del 2022"
+        },
+        {
+            "nombre": "Jose Enrique Argel Burgos",
+            "identificación": "1003713778",
+            "semestre": "Décimo semestre",
+            "teléfono": "3225455098",
+            "correo electrónico": "jargelburgos78@correo.unicordoba.edu.co",
+            "fecha de vinculación": "04 de Octubre del 2022"
+        },
+        {
+            "nombre": "Jose Daniel Almanza Avila",
+            "identificación": "1003189722",
+            "semestre": "Noveno semestre",
+            "teléfono": "3046002539",
+            "correo electrónico": "Jalmanzaavila@correo.unicordoba.edu.co",
+            "fecha de vinculación": "03 de Febrero del 2023"
+        },
+        {
+            "nombre": "Dor María Luna Genes",
+            "identificación": "1003097107",
+            "semestre": "Noveno semestre",
+            "teléfono": "3235030322",
+            "correo electrónico": "dlunagenes@correo.unicordoba.edu.co",
+            "fecha de vinculación": "02 de Marzo del 2023"
+        }
+        ]
+    },
+        "información proyectos": [
+        {
+            "Tipo": "Proyecto de Investigación – Emprendimiento – Innovación y Desarrollo Tecnológico.",
+            "Estado": "Propuesta de Investigación – Investigación en Curso – Investigación Terminada – Idea de Negocio – Plan de Negocio – Empresa Puesta en Marcha."
+        }
+        ],
+        "proyectos": [
+        {
+            "Nombre del Proyecto": "Propuesta metodológica basada en el enfoque STEM+ para la enseñanza de la robótica en el área de tecnología e informática.",
+            "Tipo": "Proyecto de Investigación",
+            "Estado": "Investigación en Curso",
+            "Campo del Saber": "Integración de TIC al Currículo"
+        },
+        {
+            "Nombre del Proyecto": "Diseño de un Objeto Virtual de Aprendizaje para la enseñanza de la programación y el fortalecimiento del pensamiento computacional en estudiantes de básica primaria",
+            "Tipo": "Proyecto de Investigación",
+            "Estado": "Investigación en Curso",
+            "Campo del Saber": "Desarrollo de Recursos Educativos Digitales"
+        },
+        {
+            "Nombre del Proyecto": "Diseño de estrategias didácticas con incorporación de las tecnologías de la información y la comunicación (TIC) para la enseñanza-aprendizaje de la suma y resta de números enteros en estudiantes con limitaciones visuales",
+            "Tipo": "Proyecto de Investigación",
+            "Estado": "Investigación en Curso",
+            "Campo del Saber": "Integración de TIC al Currículo"
+        }
+    ],
+        "publicaciones realizadas": [
+        {
+            "Título": "TESPIS UNA PROPUESTA DIDÁCTICA DE LIEMAV",
+            "Año": "2018",
+            "Medio (Revista, memoria, etc.)": "https://revistas.unicordoba.edu.co/index.php/asinf/article/view/1266"
+        },
+        {
+            "Título": "ESPACIO VIRTUAL COMO APOYO A LA FORMACIÓN DEL DESARROLLO AUDITIVO Y MEMORIA MUSICAL EN EL AULA DE CLASE",
+            "Año": "2018",
+            "Medio (Revista, memoria, etc.)": "https://revistas.unicordoba.edu.co/index.php/asinf/article/view/1273"
+        },
+        {
+            "Título": "MOOC como estrategia de aprendizaje en educación superior.",
+            "Año": "2020",
+            "Medio (Revista, memoria, etc.)": "https://revistas.unicordoba.edu.co/index.php/asinf/article/view/1920"
+        },
+        {
+            "Título": "LEARNING ANALITYCS Y SUS APORTES A LA EVALUACIÓN Y LA INCLUSIÓN EN EDUCACIÓN SUPERIOR",
+            "Año": "2022",
+            "Medio (Revista, memoria, etc.)": "https://revistas.unicordoba.edu.co/index.php/asinf/article/view/2617"
+        },
+        {
+            "Título": "Estrategia metodológica para implementar las TIC como ajuste razonable en los procesos de enseñanza-aprendizaje de las personas con discapacidad visual: Español.",
+            "Año": "2020",
+            "Medio (Revista, memoria, etc.)": ""
+        },
+        {
+            "Título": "IMPLEMENTATION OF THE \"PIENSA-C\" STRATEGY FOR THE DEVELOPMENT OF COMPUTATIONAL THINKING WITH ARTIFICIAL INTELLIGENCE IN SECONDARY EDUCATION",
+            "Año": "2022",
+            "Medio (Revista, memoria, etc.)": "https://library.iated.org/view/DURANGO2022IMP"
+        },
+        {
+            "Título": "DESIGN OF A MACHINE LEARNING-BASED TEACHING TOOL TO THE DEVELOPMENT OF COMPUTATIONAL THINKING, ICERI2020 Proceedings",
+            "Año": "2020",
+            "Medio (Revista, memoria, etc.)": "https://library.iated.org/view/ZAPAREYES2020DES"
+        },
+        {
+            "Título": "Diseño de un videojuego que contribuya a mejorar el desempeño académico en matemáticas, en el tema de multiplicación a estudiantes de grado 3° de la Institución Educativa Victoria Manzur Sede Paraíso “Valle Del Sol”.",
+            "Año": "2020",
+            "Medio (Revista, memoria, etc.)": "https://revistas.unicordoba.edu.co/index.php/asinf/article/view/1813"
+        },
+        {
+            "Título": "Materiales educativos digitales para estudiantes con discapacidad cognitiva en la educación básica.",
+            "Año": "2022",
+            "Medio (Revista, memoria, etc.)": "https://doi.org/10.21897/26192659.3132"
+        },
+        {
+            "Título": "REALIDAD EXTENDIDA Y SUS POSIBILIDADES DE MEDIACIÓN EN AMBIENTES DE APRENDIZAJE.",
+            "Año": "2022",
+            "Medio (Revista, memoria, etc.)": "https://revistas.unicordoba.edu.co/index.php/asinf/article/view/2787"
+        },
+        {
+            "Título": "APORTANDO AL APRENDIZAJE EXPERIENCIAL A TRAVÉS DE LA IMPLEMENTACIÓN DE UN AMBIENTE VIRTUAL CON ENFOQUE STEAM+",
+            "Año": "2023",
+            "Medio (Revista, memoria, etc.)": "https://revistas.unicordoba.edu.co/index.php/asinf/article/view/3319"
+        },
+        {
+            "Título": "Diseño de un espacio virtual para favorecer el desarrollo de competencias específicas en docentes en formación que evalúa Saber Pro.",
+            "Año": "2020",
+            "Medio (Revista, memoria, etc.)": "https://revistas.unicordoba.edu.co/index.php/asinf/article/view/2060"
+        },
+        {
+            "Título": "DEVELOP COMPUTATIONAL THINKING SKILLS FROM ARTIFICIAL INTELLIGENCE CONCEPTS IN SECONDARY EDUCATION, ICERI2022 Proceedings",
+            "Año": "2022",
+            "Medio (Revista, memoria, etc.)": "https://library.iated.org/view/MUNOZ2022DEV"
+        },
+        {
+            "Título": "Ambiente virtual de aprendizaje para desarrollar el pensamiento matemático en la ejecución de las operaciones aritméticas básicas.",
+            "Año": "2022",
+            "Medio (Revista, memoria, etc.)": "https://revistas.unicordoba.edu.co/index.php/asinf/article/view/3126"
+        },
+        {
+            "Título": "Eduteka como herramienta didáctica para estimular los hábitos de estudio, que favorezca la permanencia escolar en estudiantes de secundaria.",
+            "Año": "2022",
+            "Medio (Revista, memoria, etc.)": "https://revistas.unicordoba.edu.co/index.php/asinf/article/view/3123"
+        },
+        {
+            "Título": "Duolingo como herramienta didáctica para contribuir en el mejoramiento del proceso de enseñanza-aprendizaje del idioma inglés.",
+            "Año": "2022",
+            "Medio (Revista, memoria, etc.)": "https://revistas.unicordoba.edu.co/index.php/asinf/article/view/3130"
+        },
+        {
+            "Título": "Construcción Colaborativa de Lineamientos de Informática para el DEsarrollo de software que permita la Realización modular del sistema de Acreditación y el Registro calificado LIDERAR.",
+            "Año": "2017",
+            "Medio (Revista, memoria, etc.)": "https://revistas.unicordoba.edu.co/index.php/asinf/article/view/1159"
+        },
+        {
+            "Título": "Diseño de un Sistema Web Progresivo para la gestión de eventos académicos en la Licenciatura en Informática.",
+            "Año": "2020",
+            "Medio (Revista, memoria, etc.)": "https://revistas.unicordoba.edu.co/index.php/asinf/article/view/1814"
+        },
+        {
+            "Título": "Aspectos metodológicos para la virtualización de la electiva evaluación del aprendizaje en e-learning.",
+            "Año": "2017",
+            "Medio (Revista, memoria, etc.)": "https://revistas.unicordoba.edu.co/index.php/asinf/article/view/1155"
+        },
+        {
+            "Título": "Las tic como herramientas de inclusión educativa",
+            "Año": "2017",
+            "Medio (Revista, memoria, etc.)": "https://revistas.unicordoba.edu.co/index.php/asinf/article/view/1167"
+        },
+        {
+            "Título": "Stem y sus oportunidades en el ámbito educativo.",
+            "Año": "2022",
+            "Medio (Revista, memoria, etc.)": "https://revistas.unicordoba.edu.co/index.php/asinf/article/view/3118"
+        }
+    ]
+    }
+]
