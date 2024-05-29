@@ -1,4 +1,6 @@
-<script></script>
+
 <template>
-  <div></div>
+  <div class="m-4">
+    <Jrplaneacion/>
+  </div>
 </template>

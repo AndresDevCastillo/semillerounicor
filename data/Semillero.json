@@ -1,0 +1,102 @@
+[
+  {
+    "facultad": "Educación y Ciencias Humanas",
+    "programa": "Lic. Literatura y lengua castellana",
+    "nombre": "Semillero Repensarte",
+    "grupo": "Sociedad de imaginarios e investigación (SIC)",
+    "tematicas": [
+      "Narrativas de memoria",
+      "Literatura",
+      "Estudios de la argumentación",
+      "Creación literaria",
+      "Teoría del reconocimiento"
+    ],
+    "mision": "La misión principal del semillero Repensarte es la de crear y recrear una forma de evaluación del arte la literatura y el pensamiento crítico en nuevas apuestas estéticas e investigativas que se traduzcan en argumentaciones sólidas en el campo académico y social.",
+    "vision": "La visión de Repensarte es consolidarse como un espacio líder en la producción de conocimiento crítico y literario, influenciando a nivel nacional e internacional.",
+    "objetivoGeneral": "Realizar una evaluación tanto investigativa cómo creativa en el campo del arte y la literatura todo esto desde la sociología de la literatura la sociocrítica y de la puesta en escena de la creación.",
+    "objetivosEspecificos": [
+      "Resaltar el aporte creativo tanto en la narrativa cómo en la narrativa de memoria y en otros géneros literarios y artísticos.",
+      "Generar conocimiento a partir de aportes investigativos en el ámbito de la literatura la teoría del reconocimiento y el pensamiento crítico.",
+      "Crear conciencia acerca de las problemáticas discutidas al interior del semillero sobre las nuevas posturas de los jóvenes en torno a la literatura y la creación estética."
+    ],
+    "estrategias": [
+      "conversatorios",
+      "debates",
+      "lluvia de ideas",
+      "trabajo colaborativo",
+      "ilustración",
+      "investigaciones geográficas",
+      "lectura y creación estética",
+      "divulgación de trabajos investigativos en diferentes medios digitales"
+    ],
+    "actividades": [
+      "Organización evento: encuentro estudiantes español y literatura",
+      "estudio de autor: Piedad Bonett - 1era semana de noviembre",
+      "Publicación Juan Camilo Salcedo revista Cronopio: compilación creación poética",
+      "revista #100",
+      "Creación narrativa Elizabeth Carvajal",
+      "Trabajo de Análisis: obra de Alejandra Pizarnik (Anteproyecto)",
+      "María Luisa Correa - Septiembre/Octubre",
+      "Proyecto narrativo - brandis (septiembre)",
+      "Samuel guerra publicación en Blog profesor Vincenzo Paglione docente de la universidad Università degli Studi dell'Aquila",
+      "Proyecto narrativo Katherine Méndez - octubre",
+      "Proyecciones cinematográficas"
+    ],
+    "asesor": {
+      "nombre": "Luis Fernando López Noriega",
+      "identificacion": "78746443"
+    },
+    "coordinador": {
+      "nombre": "Paula Andrea Mendoza Viloria",
+      "identificacion": "1001998931"
+    },
+    "integrantes": {
+      "docentes": [
+        {
+          "nombre": "Luis Fernando López Noriega",
+          "identificacion": "78746443",
+          "nivelAcademico": "Candidato a Doctor en letras"
+        }
+      ],
+      "egresados": [],
+      "estudiantes": [
+        {
+          "nombre": "Yaira Alejandra Villadiego Vellojin",
+          "identificacion": "1003433280",
+          "nivelAcademico": "7"
+        },
+        {
+          "nombre": "Adriana Sofía Alcalá Correa",
+          "identificacion": "1137974855",
+          "nivelAcademico": "5"
+        }
+      ]
+    },
+    "proyectos": [
+      {
+        "nombre": "Anteproyecto análisis hermenéutico de Alejandra Pizarnik.",
+        "tipo": "Proyecto de investigación",
+        "estado": "Propuesta de investigación",
+        "campoSaber": "Estudios literarios"
+      },
+      {
+        "nombre": "Amatoria de Fernando Molano Vargas en la obra Un beso de Dick y la militancia queer a través del discurso de Pedro Lemebel en Háblame de amores.",
+        "tipo": "Proyecto de investigación",
+        "estado": "Investigación en curso",
+        "campoSaber": "Estudios literarios"
+      }
+    ],
+    "publicaciones": [
+      {
+        "titulo": "Por Aquel a Quien Amé",
+        "anio": "2023",
+        "medio": "Grupo Editorial Letras Negras SAS"
+      },
+      {
+        "titulo": "Compilación de poesías",
+        "anio": "2023",
+        "medio": "Revista cronopios"
+      }
+    ]
+  }
+]
