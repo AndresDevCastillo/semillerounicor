@@ -5,10 +5,6 @@ import Descripcion from '~/components/Descripcion.vue';
 <template>
     <div>
         <h1>Semillero Completo</h1>
-        <Icono />
-        <Divider />
-        <Descripcion />
-        <Divider />
-        <Menu />
+        <Test />
     </div>
 </template>
