@@ -54,7 +54,7 @@ const props = defineProps({
                                             <strong>{{ publicacion.titulo }}</strong> ({{ publicacion.anio }}) - {{ publicacion.medio }}
                                         </li>
                                     </ul>
-                                </AccordionTab>
+                                </AccordionTab> 
                             </Accordion>
                         </TabPanel>
                     </TabView>
