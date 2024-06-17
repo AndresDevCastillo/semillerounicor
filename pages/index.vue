@@ -1,6 +1,4 @@
-<script setup>
-import semillero from '../data/dataSemilleros.json'
-</script>
+<script></script>
 <template>
   <div class="m-4">
     <Jrplaneacion :semillero="semillero[1]"/>
