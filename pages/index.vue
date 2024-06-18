@@ -1,3 +1,15 @@
 <template>
-  <div></div>
+  <div>
+    <ExampleComponent />
+  </div>
 </template>
+
+<script>
+import ExampleComponent from '~/components/ExampleComponent.vue'
+
+export default {
+  components: {
+    ExampleComponent
+  }
+}
+</script>
