@@ -1,15 +1,9 @@
 <template>
-  <div>
-    <ExampleComponent />
+  <div class="m-4">
+    <ExampleComponent :semillero="semillero[0]"/>
   </div>
 </template>
 
-<script>
-import ExampleComponent from '~/components/ExampleComponent.vue'
-
-export default {
-  components: {
-    ExampleComponent
-  }
-}
+<script setup>
+import semillero from '../data/Semillero.json'
 </script>

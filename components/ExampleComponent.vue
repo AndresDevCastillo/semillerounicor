@@ -5,33 +5,39 @@
         <Avatar class="avatar" image="https://primefaces.org/cdn/primereact/images/avatar/amyelsner.png" shape="circle" />
         <div class="card-content">
           <Card style="background: none; box-shadow: none;">
-            <template v-slot:title>Semillero Completo</template>
+            <template v-slot:title>{{ semillero.nombre }}</template>
             <template v-slot:content>
-              Content goes here
+              {{ semillero.objetivoGeneral }}
             </template>
           </Card>
         </div>
       </div>
       <Divider layout="horizontal" type="dashed" class="p-mb-3"/>
       <TabView>
-        <TabPanel header="Tab 1">
-          Content 1
+        <TabPanel header="Mision">
+          {{ semillero.mision }}
         </TabPanel>
-        <TabPanel header="Tab 2">
-          Content 2
+        <TabPanel header="Vision">
+          {{ semillero.vision }}
         </TabPanel>
-        <TabPanel header="Tab 3">
-          Content 3
+        <TabPanel header="Objetivos Especificos">
+          <ul>
+            <li v-for="objetivo in semillero.objetivosEspecificos" :key="objetivo">
+              {{ objetivo }}
+            </li>
+          </ul>
         </TabPanel>
       </TabView>
     </div>
   </div>
 </template>
 
-<script>
-export default {
-  name: 'ExampleComponent'
-}
+<script setup>
+
+const props = defineProps({
+    semillero: Object
+})
+
 </script>
 
 <style scoped>
@@ -44,7 +50,7 @@ export default {
 }
 
 .custom-card {
-  width: 600px;
+  width: 800px;
   border-radius: 15px;
   background: linear-gradient(90deg, #141e30, #243b55);
   padding: 20px;
@@ -57,7 +63,7 @@ export default {
 }
 
 .avatar {
-  width: 100px;
+  width: 200px;
   height: 100px;
   margin-right: 20px;
 }
