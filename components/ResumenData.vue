@@ -12,19 +12,6 @@ const props = defineProps({
       </ul>
     </div>
   </template>
-  
-  <script>
-  import semilleros from '~/assets/dataSemilleros.json'
-  
-  export default {
-    data() {
-      return {
-        semilleros
-      }
-    }
-  }
-  </script>
-  
   <style scoped>
   ul {
     list-style-type: none;
