@@ -1,5 +1,4 @@
 <script setup>
-import ResumenData from '../components/ResumenData.vue';
 import dataSemilleros from '../data/dataSemilleros'
 </script>
 <template>
