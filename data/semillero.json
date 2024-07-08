@@ -1,0 +1,73 @@
+[
+    {
+      "facultad": "Educación y Ciencias Humanas",
+      "programa": "Lic. Educación Física Recreación y Deportes",
+      "nombre": "Homo Ludens",
+      "grupo": "Gicafs",
+      "tematicas": [
+        "Estudios Socioculturales y Humanos de la Educación Física la Recreación Ocio Tiempo Libre y deportes"
+      ],
+      "mision": "Construcción de conocimientos subyacentes de estudios e investigaciones en el deporte la recreación el ocio y tiempo libre desde una perspectiva social cualitativa y orientados al mejoramiento de la calidad de vida con fines emancipatorios y de transformación de la realidad social",
+      "vision": "Consolidarse como una comunidad académica que cuente con reconocimiento nacional e internacional que orienta sus acciones hacia la construcción de conocimientos la comprensión y vivencia del deporte la recreación el ocio y tiempo libre como medios para el desarrollo humano la convivencia y la paz desde lo individual y social comunitario.",
+      "objetivoGeneral": "Promover la investigación científica en el campo de la Educación Física la Recreación el ocio tiempo libre y los Deportes fomentando el desarrollo de nuevos conocimientos y la generación de aportes significativos para la comunidad académica y profesional.",
+      "objetivosEspecificos": [
+        "Brindar un espacio de formación y capacitación a estudiantes interesados en la investigación en el ámbito de la Educación Física la Recreación y los Deportes mediante la adquisición de habilidades y competencias metodológicas y científicas.",
+        "Desarrollar proyectos de investigación y extensión social cualitativo orientados a una mejor comprensión y vivencia de deporte la recreación el ocio y tiempo libre",
+        "Aportar criterios conceptuales y metodológicos para la formulación e implementación de políticas públicas que favorezcan el deporte la recreación el ocio y tiempo libre."
+      ],
+      "estrategias": [
+        "Con la realización de investigaciones que integren diferentes metodologías: estudios documentales estados del arte etnografía historias de vida memoria histórica IAP.",
+        "Por medio de la difusión diseminación y aplicación de los conocimientos subyacentes en los proyectos de desarrollo asesorías consultarías y formación permanente.",
+        "Con el trabajo en las líneas de investigación la participación activa en Redes Nacionales e Internacionales estudios socioculturales en deporte Recreación ocio y tiempo libre."
+      ],
+      "actividades": [
+        "Desarrollo del proyecto de investigación: Expresiones motrices dancísticas de la comunidad Emberá Catío del Alto Sinú",
+        "Participación con ponencias producto de las investigaciones en congresos simposios seminarios nacionales e internacionales",
+        "Publicación de artículos en revistas nacionales e internacionales indexadas o no indexadas."
+      ],
+      "asesor": {
+        "nombre": "Fernando De La Espriella Arenas",
+        "identificacion": "92503946"
+      },
+      "coordinador": {
+        "nombre": "Luis Suárez Vergara",
+        "identificacion": "1068136964"
+      },
+      "integrantes": {
+        "docentes": [],
+        "egresados": [],
+        "estudiantes": [
+          {
+            "nombre": "Isaac Negrete Álvarez",
+            "identificacion": "1003006737",
+            "nivelAcademico": "IV"
+          },
+          {
+            "nombre": "Lenar Mizraim Roa Torres",
+            "identificacion": "1003249520",
+            "nivelAcademico": "IV"
+          },
+          {
+            "nombre": "Dariana Herrera Franco",
+            "identificacion": "1003036646",
+            "nivelAcademico": "IV"
+          },
+          {
+            "nombre": "Efren David Esquivel Madera",
+            "identificacion": "1003402137",
+            "nivelAcademico": "IV"
+          }
+        ]
+      },
+      "proyectos": [
+        {
+          "nombre": "Desarrollo del proyecto de investigación: Expresiones motrices dancísticas de la comunidad Emberá Katío del Alto Sinú",
+          "tipo": "Investigación en curso",
+          "estado": "Recogida de información",
+          "campoSaber": "Motricidad danzas ocio"
+        }
+      ],
+      "publicaciones": []
+    }
+  ]
+  
