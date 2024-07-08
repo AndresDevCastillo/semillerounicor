@@ -11,7 +11,12 @@ const props = defineProps({
 <template>
     <div>
         <Card>
-            <template #title>{{ props.nombreSemillero }}</template>
+            <template #header>
+                <div class="flex justify-center items-center mt-3">
+                    <Avatar image="https://universidadesgratuitas.com/wp-content/uploads/2020/09/escudo-universidad-de-cordoba-1159x1536.png" class="mr-2" size="xlarge" shape="circle" />
+                    <h1>{{props.nombreSemillero}}</h1>
+                </div>
+            </template>
             <template #content>
                 <Accordion :activeIndex="0">
                     <AccordionTab header="Misión">
@@ -26,7 +31,7 @@ const props = defineProps({
                     </AccordionTab>
                 </Accordion>
 
-                <DataTable :value="props.integrantes">
+                <DataTable :value="props.integrantes" showGridlines stripedRows>
                     <template #header>
                         <div class="flex flex-wrap justify-content-end gap-2">
                             Integrantes
@@ -34,7 +39,11 @@ const props = defineProps({
                     </template>
                     <Column field="nombre" header="Nombre"></Column>
                     <Column field="identificacion" header="Nit"></Column>
-                    <Column field="nivelAcademico" header="Nivel Academico"></Column>
+                    <Column header="Nivel Academico">
+                        <template #body= {data}>
+                            <Badge :value="data.nivelAcademico"></Badge>
+                        </template>
+                    </Column>
                 </DataTable>
             </template>
         </Card>
