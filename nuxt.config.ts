@@ -19,6 +19,7 @@ export default defineNuxtConfig({
     },
     private: {},
   },
+  plugins: ['~/plugins/primevue.js'],
   css: [
     "primevue/resources/themes/lara-dark-purple/theme.css",
     "primevue/resources/primevue.min.css",
